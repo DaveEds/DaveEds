@@ -1,3 +1,4 @@
 - 👋 Hi Github Community, I’m @DaveEds a Technical Recruiter/Technology hobbiest from Vancouver, BC🍁
+- I'm currently working for ♪ Tik Tok ♪ recruiting talent out of the SF Bay area
 - 👀 I'm always searching for top talent to connect with across North America (US, Canada, Mexico)
 - 🌱 Personally, I’m currently attempting to learning JavaScript, Node JS, and Solidity. I also moonlight as a hobbyst Pen Tester on Hack The Box
